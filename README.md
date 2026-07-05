@@ -4,6 +4,8 @@ A RAG-based chatbot built for a fictional insurance company knowledge base.
 It reads internal markdown documents, turns them into searchable chunks, stores embeddings in ChromaDB, and answers questions through a Gradio interface with source attribution and response evaluation.
 
 <img width="1894" height="564" alt="image" src="https://github.com/user-attachments/assets/f1495b77-cc33-42df-84e8-eb4ac037418b" />
+<img width="1888" height="576" alt="image" src="https://github.com/user-attachments/assets/32685498-9b85-4585-bb71-89ed3c70c10e" />
+<img width="1898" height="549" alt="image" src="https://github.com/user-attachments/assets/ef5e2181-5752-4440-8f74-085735221020" />
 
 
 ## Overview
